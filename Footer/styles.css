@@ -1,0 +1,24 @@
+p{
+  font-family: arial;
+  font-size: 15px;
+  text-align:center;
+color: #A0522D;
+
+}
+
+body{
+  background-color:#EED9C4
+}
+
+ul{
+  color: #4E342E;
+}
+footer{
+  border: solid 1px #D2B48C;
+  border-radius: 20px;
+  background-color: #FFFDF5;
+}
+a{
+  text-decoration: none;
+  color: #A0522D
+}
