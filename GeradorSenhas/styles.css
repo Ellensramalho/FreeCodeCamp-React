@@ -1,0 +1,27 @@
+body{
+background-color:#E6E6FA;
+}
+
+.container{
+  text-align: center;
+  margin-top: 180px;
+}
+#otp-title{
+  color: #8A2BE2;
+}
+
+#otp-display{
+  color: #BA55D3;
+}
+
+#otp-timer{
+  color:#9966CC;
+}
+
+#generate-otp-button{
+background-color: #9370DB;
+border-radius:20px;
+padding: 10px;
+border: none;
+color: #ffffff;
+}
