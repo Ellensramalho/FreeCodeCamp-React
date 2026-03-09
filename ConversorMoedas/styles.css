@@ -1,0 +1,33 @@
+body{
+  background-color:#764ba2;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+div{
+  background-color: #667eea;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+select{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #b6c1f6;
+}
+
+p{
+  color: white;
+}
+
+option{
+  background-color: #bb9fd7; 
+}
